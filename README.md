@@ -1,2 +1,1 @@
-# Rangers of the Wilderness
- Callouts focused around the wilderness areas of Blaine County.
+An evergrowing callout pack for FivePD and a branch of Project VRRC (https://github.com/Valandria/Project-VRRC), focused on the wilderness areas around Mount Chiliad, Mount Gordo, and Mount Josiah.
