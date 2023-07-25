@@ -40,6 +40,12 @@
     <Reference Include="FivePD.net">
       <HintPath>..\..\..\Callout Editing\Modified Templates\CarCallouts-RR\CarCallouts-master\CarCallout\bin\Debug\FivePD.net.dll</HintPath>
     </Reference>
+    <Reference Include="MenuAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MenuAPI.FiveM.3.2.2\lib\net452\MenuAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -50,11 +56,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommonFunctions.cs" />
     <Compile Include="NCMed_AnimalMVA.cs" />
     <Compile Include="NCMed_HikerStuck.cs" />
+    <Compile Include="NC_Poaching.cs" />
     <Compile Include="NC_StrandedBoater.cs" />
     <Compile Include="NC_HikerAttack.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

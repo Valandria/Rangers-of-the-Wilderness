@@ -303,11 +303,15 @@ namespace RangersoftheWildernessCallouts
             {
                 ShowDialog("There seems to be a seatbelt avoidance device installed on the driver seatbelt.", 10000, 10f);
             }
+
+            await Task.FromResult(0);
         }
         public override async Task OnAccept()
         {
             InitBlip();
             UpdateData();
+
+            await Task.FromResult(0);
         }
     }
 }

@@ -190,6 +190,8 @@ namespace RangersoftheWildernessCallouts
                 nchaped2data.UsedDrugs[0] = PedData.Drugs.Meth;
                 ShowDialog("The animal smells heavily of ammonia.", 10000, 10f);
             }
+
+            await Task.FromResult(0);
         }
         public async Task thatsmethedupman()
         {
@@ -223,11 +225,13 @@ namespace RangersoftheWildernessCallouts
                 nchaped2data.UsedDrugs[0] = PedData.Drugs.Meth;
                 nchaped2data.Items.Add(nchamethpipe);
             }
+            await Task.FromResult(0);
         }
         public async override Task OnAccept()
         {
             InitBlip();
             UpdateData();
+            await Task.FromResult(0);
         }
         private void DrawSubtitle(string message, int duration)
         {
