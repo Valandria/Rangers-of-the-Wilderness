@@ -121,6 +121,8 @@ namespace RangersoftheWildernessCallouts
         {
             InitBlip();
             UpdateData();
+
+            await Task.FromResult(0);
         }
     }
 }

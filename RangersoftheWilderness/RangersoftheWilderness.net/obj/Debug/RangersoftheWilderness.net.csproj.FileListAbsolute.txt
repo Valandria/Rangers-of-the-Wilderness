@@ -21,3 +21,13 @@ C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid
 C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Rangers of the Wilderness Github\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\obj\Debug\RangersoftheWilderness.net.csproj.CopyComplete
 C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Rangers of the Wilderness Github\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\obj\Debug\RangersoftheWilderness.net.dll
 C:\Users\Alexandria\Desktop\Current Task\devPD [FivePD Dev Files]\Github - Rapid Response Callout Pack\Rangers of the Wilderness Github\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\obj\Debug\RangersoftheWilderness.net.pdb
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\bin\Debug\RangersoftheWilderness.net.dll
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\bin\Debug\RangersoftheWilderness.net.pdb
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\bin\Debug\MenuAPI.dll
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\obj\Debug\RangersoftheWilderness.net.csproj.AssemblyReference.cache
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\obj\Debug\RangersoftheWilderness.net.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\obj\Debug\RangersoftheWilderness.net.csproj.CopyComplete
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\obj\Debug\RangersoftheWilderness.net.dll
+C:\Users\Zack\Source\Repos\HuskyNinjaDevelopment\Rangers-of-the-Wilderness\RangersoftheWilderness\RangersoftheWilderness.net\obj\Debug\RangersoftheWilderness.net.pdb

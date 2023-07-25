@@ -99,6 +99,8 @@ namespace RangersoftheWildernessCallouts
         {
             InitBlip();
             UpdateData();
+
+            await Task.FromResult(0);
         }
 
         public async override void OnStart(Ped player)
